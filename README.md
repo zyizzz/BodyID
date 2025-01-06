@@ -1,6 +1,8 @@
-Dependencies and Installation
+ReID-IPG
 =
-```
+Dependencies and Installation
+-
+```bash
 # Clone the Repository
 git clone https://github.com/zyizzz/ReID-IPG.git
 
