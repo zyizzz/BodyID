@@ -1,5 +1,6 @@
 Dependencies and Installation
 =
+```
 # Clone the Repository
 git clone https://github.com/zyizzz/ReID-IPG.git
 
@@ -9,3 +10,4 @@ conda activate reidipg
 
 # Install Dependencies
 pip install -r requirements.txt
+```
