@@ -7,8 +7,8 @@ Dependencies and Installation
 git clone https://github.com/zyizzz/BodyID.git
 
 # Create Virtual Environment with Conda
-conda create --name reidipg python=3.10
-conda activate reidipg
+conda create --name bodyid python=3.10
+conda activate bodyid
 
 # Install Dependencies
 pip install -r requirements.txt
